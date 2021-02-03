@@ -1,0 +1,28 @@
+body {
+    background-color:darkslategray;
+    font-family: monospace;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    color:lightgrey;
+    }
+th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    color:powderblue;
+}
+table {
+    margin: auto;
+    padding: 20px;
+}
+.property {
+    color: black;
+}
